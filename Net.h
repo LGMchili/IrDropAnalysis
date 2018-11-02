@@ -1,6 +1,4 @@
 //
-// Created by 骆少衡 on 2017/3/6.
-//
 #ifndef IR_DROP_NET_H
 #define IR_DROP_NET_H
 class Node{
