@@ -1,6 +1,4 @@
 //
-// Created by 骆少衡 on 2017/3/6.
-//
 #include <iostream>
 #include "Net.h"
 void Net::print_v() const {
